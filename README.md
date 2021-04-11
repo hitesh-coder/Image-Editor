@@ -2,15 +2,15 @@
 
 ## Instructions for running the app
 
- Clone/Download repository.
+ - Clone/Download repository.
 
- use `npm install` and `composer install` command.
+ - use `npm install` and `composer install` command.
 
- start your mysql server and create a data-base with name *upload*.
+ - start your mysql server and create a data-base with name *upload*.
 
- use `php artisan migrate` command.
+ - use `php artisan migrate` command.
 
- now `run php artisan serve` command and your app is running.
+ - now `run php artisan serve` command and your app is running.
 
 
 ## Other information
