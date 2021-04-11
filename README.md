@@ -36,7 +36,7 @@
  
   `./resources/js` contain vue files in which front end is implemented.
   
-  `./resources` also .blade.php files.
+  `./resources` also have .blade.php files.
   
   
   
