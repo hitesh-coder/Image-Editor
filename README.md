@@ -7,7 +7,7 @@
  - start your mysql server and create a data-base with name *upload*.
  - use `php artisan migrate` command.
  - use `npm run dev` command.
- - now `run php artisan serve` command and your app is running.
+ - now run `php artisan serve` command and your app is running.
 
 
 ## Other information
