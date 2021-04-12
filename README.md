@@ -1,5 +1,13 @@
 # Image-Editor
 
+## System requirment
+
+- mysql
+- laravel
+- node
+- composer
+
+
 ## Instructions for running the app
 
  - Clone/Download repository.
