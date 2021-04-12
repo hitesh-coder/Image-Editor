@@ -1,6 +1,6 @@
 # Image-Editor
 
-## System requirment
+## Prerequisite
 
 - mysql
 - laravel
